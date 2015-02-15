@@ -1,0 +1,7 @@
+#define _OS_OSBYTEORDERI386_H 1
+
+#include <mach/mach_types.defs>
+#include <mach/std_types.defs>
+#include <mach/clock_types.defs>
+
+subsystem IOHIDEventSystem 1001;
